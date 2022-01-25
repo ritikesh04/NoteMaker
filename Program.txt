@@ -5,3 +5,6 @@ C
 
 Kotlin
 Python
+
+Machine Learning
+Artificial Intelligence
